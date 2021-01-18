@@ -1,1 +1,1 @@
-Check commit message to see what has to be done.
+Check previous commit message to see what has to be done.
